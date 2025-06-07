@@ -94,3 +94,6 @@ Goal: Build real-world scanning and reporting skills
 
 ---
 
+## 📄 Download Full PDF Report
+
+[Metasploitable2_Vulnerability_Report.pdf](./Metasploitable2_Vulnerability_Report.pdf)
