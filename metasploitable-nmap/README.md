@@ -34,6 +34,7 @@ nmap -sV -sC -oN metasploitable-scan.txt 192.168.176.4
 
 📎 Scan Screenshot
 
+![Nmap Scan Output](./metasploitable-nmap.png)
 
 > (Screenshot shows discovered ports and services on Metasploitable2)
 
