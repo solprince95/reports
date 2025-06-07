@@ -19,7 +19,7 @@ It was scanned from *Kali Linux* inside VirtualBox using Host-Only networking to
 
 ## 🧪 Nmap Scan Command
 
-```bash
+
 nmap -sV -sC -oN metasploitable-scan.txt 192.168.176.4
 
 -sV: Detect service versions
